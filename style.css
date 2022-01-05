@@ -1,0 +1,13 @@
+body{
+  text-align:center;
+  background:#f5ffff;
+}
+#ncyu{
+  position: fixed;
+/*   border: solid 5px gold; */
+  top: 30px;
+  right: 10px;
+}
+#ico{
+  width: 200px;
+}
